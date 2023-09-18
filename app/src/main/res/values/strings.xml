@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="Spinner_Title">Demo Spinner</string>
+    <string name="TextView_Selected">Lập trình C#</string>
+</resources>
